@@ -3,7 +3,7 @@ const { Storage } = require('@google-cloud/storage');
 const { PubSub } = require('@google-cloud/pubsub');
 const sharp = require('sharp');
 
-functions.cloudEvent('memories-thumbnail-maker', async cloudEvent => {
+functions.cloudEvent('memories-thumbnail-generator', async cloudEvent => {
   const event = cloudEvent.data;
 
   console.log(`Event: ${JSON.stringify(event)}`);
