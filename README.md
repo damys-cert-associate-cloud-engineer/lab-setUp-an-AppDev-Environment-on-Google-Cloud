@@ -12,3 +12,10 @@ Laboratorios de Certificacion: Set Up an App Dev Environment on Google Cloud: Ch
 ### Upload to the GCP bucket
 ### (Optional) Remove the local file
 ## Remove the user from IAM 
+
+
+
+
+
+
+### NOTE: All the labs need to run to know the regions o extra data necesary to finish it, so please take the data from BASH file as temporal and chenge variables as you get it from lab side."""
