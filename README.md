@@ -9,7 +9,7 @@ Laboratorios de Certificacion: Set Up an App Dev Environment on Google Cloud: Ch
 ## 5- move to folder generated
 ## 6.- run deploy cloud function
 ## 7.- move image to test the service in Bucket via cloud
-## 7.1. Download the image
+### 7.1. Download the image
 ### 7.2. Upload to the GCP bucket
 ### 7.3. (Optional) Remove the local file
 ## 8.- Remove the user from IAM 
