@@ -2,6 +2,7 @@
 Laboratorios de Certificacion: Set Up an App Dev Environment on Google Cloud: Challenge Lab
 
 # Steps to follow in the SH file ##
+## 0.- activar api EVENTARC
 ## 1.- Set all variables to start de script
 ## 2.- Create a BUCKET by command line
 ## 3.- create a Pubsub topi by command line
